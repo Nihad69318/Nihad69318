@@ -1,11 +1,14 @@
 # Hi 👋, I'm Md Nihad Islam
 
-### Flutter Developer | Dart Programmer | Mobile App Enthusiast
-
-📧 Email: [nihadislam69318@gmail.com](mailto:nihadislam69318@gmail.com)
+### Flutter Developer | Dart Programmer | Mobile App Developer | 
+---
+<p>
+📧 Email: [nihadislam69318@gmail.com](mailto:nihadislam69318@gmail.com)<br>
 📱 Phone: +8801842454305
 💼 LinkedIn: https://www.linkedin.com/in/md-nihad-islam-6a046a418/
 🐙 GitHub: https://github.com/Nihad69318
+</p>
+---
 
 ---
 
