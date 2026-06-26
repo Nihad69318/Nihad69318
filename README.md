@@ -1,13 +1,11 @@
 
-
-
-<p align="center">#### Hi 👋, I'm Md Nihad Islam</p>
-
-<p align="center"> ### Flutter Developer | Dart Programmer | Mobile App Developer | </p>
----
 <p align="center">
-  <img src="https://github.com/Nihad69318/assigment6/blob/master/assets/GITHUB_BANNER.png?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Md+Nihad+Islam;Flutter+Developer;Dart+Programmer;Mobile+App+Developer" />
+  <img src=" https://raw.githubusercontent.com/Nihad69318/Nihad69318/main/banner.png" alt="Banner" width="100%">
 </p>
+
+####<p align="center"> Hi 👋, I'm Md Nihad Islam</p>
+
+###<p align="center">  Flutter Developer | Dart Programmer | Mobile App Developer | </p>
 ---
 
 📧 Email: [nihadislam69318@gmail.com](mailto:nihadislam69318@gmail.com)<br>
