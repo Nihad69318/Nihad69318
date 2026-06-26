@@ -1,13 +1,18 @@
-## Hi 👋, I'm Md Nihad Islam
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Md+Nihad+Islam;Flutter+Developer;Dart+Programmer;Mobile+App+Developer" />
+</p>
+
+
+### Hi 👋, I'm Md Nihad Islam
 
 ### Flutter Developer | Dart Programmer | Mobile App Developer | 
 
 ---
 
-*📧 Email: [nihadislam69318@gmail.com](mailto:nihadislam69318@gmail.com)<br>
-*📱 Phone: +8801842454305<br>
-*💼 LinkedIn: https://www.linkedin.com/in/md-nihad-islam-6a046a418/<br>
-*🐙 GitHub: https://github.com/Nihad69318<br>
+📧 Email: [nihadislam69318@gmail.com](mailto:nihadislam69318@gmail.com)<br>
+📱 Phone: +8801842454305<br>
+💼 LinkedIn: https://www.linkedin.com/in/md-nihad-islam-6a046a418/<br>
+🐙 GitHub: https://github.com/Nihad69318<br>
 
 ---
 
